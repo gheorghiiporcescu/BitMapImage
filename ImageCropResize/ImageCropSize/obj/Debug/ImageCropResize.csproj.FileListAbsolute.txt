@@ -1,0 +1,8 @@
+C:\Users\PORCESCU\Desktop\ImageCropResize\ImageCropSize\bin\Debug\ImageCropResize.exe
+C:\Users\PORCESCU\Desktop\ImageCropResize\ImageCropSize\bin\Debug\ImageCropResize.pdb
+C:\Users\PORCESCU\Desktop\ImageCropResize\ImageCropSize\obj\Debug\ImageCropResize.ImageCropForm.resources
+C:\Users\PORCESCU\Desktop\ImageCropResize\ImageCropSize\obj\Debug\ImageCropResize.Properties.Resources.resources
+C:\Users\PORCESCU\Desktop\ImageCropResize\ImageCropSize\obj\Debug\ImageCropResize.csproj.GenerateResource.Cache
+C:\Users\PORCESCU\Desktop\ImageCropResize\ImageCropSize\obj\Debug\ImageCropResize.exe
+C:\Users\PORCESCU\Desktop\ImageCropResize\ImageCropSize\obj\Debug\ImageCropResize.pdb
+C:\Users\PORCESCU\Desktop\ImageCropResize\ImageCropSize\obj\Debug\ImageCropResize.csprojResolveAssemblyReference.cache
